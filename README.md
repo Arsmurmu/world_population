@@ -34,6 +34,8 @@ from 2021_population;                                                           
                                                                                    -- find countries whose area is less than 10 lakh sq_km
                                                                                    
                                                                                    
+                                                                                     
+                                                                                   
                                                                                    
  # the dataset is taken from kaggle.                                                                                 
                                                                                    
